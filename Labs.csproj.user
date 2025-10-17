@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="LabMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab1\Bai1\Bai1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab1\Bai2\Bai2Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab1\Bai3Them\Bai3Them.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab1\Bai3\Bai3Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab1\Bai4\Bai4Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab1\Bai5\Bai5Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab1\Bai6\Bai6Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab1\Bai7\Bai7Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab1\Bai8\Bai8Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab1\Lab1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab2\Bai1Lab2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab2\Bai2Lab2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab2\Bai3Lab2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab2\Bai4Lab2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab2\Bai5Lab2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab2\Bai6Lab2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab2\Bai7Lab2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Labs\Lab2\Lab2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
