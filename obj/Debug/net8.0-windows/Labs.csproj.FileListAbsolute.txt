@@ -33,3 +33,4 @@ D:\LearnSpace\Network Programming\ThucHanh\Labs\Labs\obj\Debug\net8.0-windows\La
 D:\LearnSpace\Network Programming\ThucHanh\Labs\Labs\obj\Debug\net8.0-windows\Labs.Labs.Lab2.Bai5Lab2.resources
 D:\LearnSpace\Network Programming\ThucHanh\Labs\Labs\obj\Debug\net8.0-windows\Labs.Labs.Lab2.Bai6Lab2.resources
 D:\LearnSpace\Network Programming\ThucHanh\Labs\Labs\obj\Debug\net8.0-windows\Labs.Labs.Lab2.Bai7Lab2.resources
+D:\LearnSpace\Network Programming\ThucHanh\Labs\Labs\obj\Debug\net8.0-windows\Labs.sourcelink.json
